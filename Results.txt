@@ -1,0 +1,29 @@
+Ally word frequencies
+German-131
+Power-115
+America-50
+War-245
+Britain-194
+Europe-97
+Peace-47
+Death-12
+Victory-54
+Japan-28
+Defeat-9
+Jewish-13
+Soviet-22
+
+Axis word frequencies
+German-579
+Power-106
+America-10
+War-249
+Britain-119
+Europe-55
+Peace-2
+Death-7
+Victory-18
+Japan-136
+Defeat-14
+Jewish-2
+Soviet-52
